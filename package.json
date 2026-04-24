@@ -1,7 +1,12 @@
 {
   "name": "backend-mini-project",
   "version": "1.0.0",
+<<<<<<< HEAD
   "main": "app.js",
+=======
+  "description": "",
+  "main": "index.js",
+>>>>>>> 6fe8367dfd632fc1d4f8003389514ca3d2085e49
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,9 +18,16 @@
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.4.5",
     "ejs": "^3.1.10",
+<<<<<<< HEAD
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.4.3"
   },
   "description": ""
+=======
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.3"
+  }
+>>>>>>> 6fe8367dfd632fc1d4f8003389514ca3d2085e49
 }
